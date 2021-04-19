@@ -19,15 +19,15 @@ public class Gestion {
 
     public void ejecutar() {
         do {
-            System.out.println("_________________||La org.aiwe.comarca.domain.Comarca||____________  ");
+            System.out.println("____________****||La Comarca||****____________  ");
             System.out.println("                      Menú                      ");
             System.out.println("Aplicación GesTaller v0.1");
             System.out.println("1.Agregar Hobbits");
             System.out.println("2.Agregar Comarcas");
-            System.out.println("3.Agregar cualidades a org.aiwe.comarca.domain.Frodo");
+            System.out.println("3.Agregar cualidades a Frodo");
             System.out.println("4.Listar caracteristicas Hobbits");
-            System.out.println("5.Listar caracteristicas org.aiwe.comarca.domain.Comarca");
-            System.out.println("6.Listar caracteristicas org.aiwe.comarca.domain.Frodo");
+            System.out.println("5.Listar caracteristicas de la Comarca");
+            System.out.println("6.Listar caracteristicas Frodo");
             System.out.println("x.Salir");
             System.out.print("Selecciona: ");
 
