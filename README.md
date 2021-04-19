@@ -1,2 +1,2 @@
 # Hobbit
-En este trabajo hemos desarrollado un programa par agregar  y listar hobbits mediante un menu interactivo. El programa cuenta con 5 clases donde todos los metodos se encuentran en la clase Gestion. Tambien se han agregado los respectivos setters y getters al igual que los metodos to string y equals.
+En este trabajo he  desarrollado un programa para agregar  y listar hobbits mediante un menu interactivo. El programa cuenta con 5 clases donde todos los metodos se encuentran en la clase Gestion. Tambien se han agregado los respectivos setters y getters al igual que los metodos to string y equals.
