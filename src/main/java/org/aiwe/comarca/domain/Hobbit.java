@@ -65,7 +65,7 @@ public class Hobbit {
 
     @Override
     public String toString() {
-        return "org.aiwe.comarca.domain.org.aiwe.comarca.domain.Hobbit{" +
+        return "Hobbit{" +
                 "nombre='" + nombre + '\'' +
                 ", edad=" + edad +
                 ", raza='" + raza + '\'' +

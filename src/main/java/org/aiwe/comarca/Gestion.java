@@ -64,6 +64,7 @@ public class Gestion {
     private void ListarFrodo() {
         ArrayList<Frodo> frodoArrayList=new ArrayList<>();
         Frodo frodo1=new Frodo(110,"mithrill","anillo de poder","pescado y hiervas del bosque","conejo");
+        frodoArrayList.add(frodo1);
         for(Frodo frodo:frodoArrayList);
         System.out.println(frodoArrayList);
     }

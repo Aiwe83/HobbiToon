@@ -64,7 +64,7 @@ public class Comarca {
 
     @Override
     public String toString() {
-        return "org.aiwe.comarca.domain.org.aiwe.comarca.domain.Comarca{" +
+        return "Comarca{" +
                 "nombre='" + nombre + '\'' +
                 ", ubicacion='" + ubicacion + '\'' +
                 ", dimensiones_m2=" + dimensiones_m2 +

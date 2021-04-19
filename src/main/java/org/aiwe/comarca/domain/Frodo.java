@@ -64,7 +64,7 @@ public class Frodo {
 
     @Override
     public String toString() {
-        return "org.aiwe.comarca.domain.org.aiwe.comarca.domain.Frodo{" +
+        return "Frodo{" +
                 "altura=" + altura +
                 ", armadura='" + armadura + '\'' +
                 ", accesorios='" + accesorios + '\'' +
