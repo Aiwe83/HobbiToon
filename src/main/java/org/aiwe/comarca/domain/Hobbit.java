@@ -10,6 +10,10 @@ public class Hobbit {
     private String habitad;
     private String poder;
 
+    public Hobbit() {
+
+    }
+
     public String getNombre() {
         return nombre;
     }

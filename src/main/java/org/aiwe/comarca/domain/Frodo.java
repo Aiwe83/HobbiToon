@@ -2,7 +2,7 @@ package org.aiwe.comarca.domain;
 
 import java.util.Objects;
 
-public class Frodo {
+public class Frodo extends Hobbit {
     private int altura;
     private String armadura;
     private String accesorios;
@@ -10,6 +10,7 @@ public class Frodo {
     private String mascota;
 
     public Frodo(int altura, String armadura, String accesorios, String alimentacion, String mascota) {
+        super();
         this.altura = altura;
         this.armadura = armadura;
         this.accesorios = accesorios;
