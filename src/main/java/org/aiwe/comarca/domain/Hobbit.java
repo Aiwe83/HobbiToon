@@ -15,7 +15,7 @@ public class Hobbit {
     }
 
     public String getNombre() {
-        return ;
+        return nombre;
     }
 
     public Hobbit setNombre(String nombre) {
