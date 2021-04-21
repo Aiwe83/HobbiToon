@@ -148,6 +148,7 @@ public class Gestion {
         String nombre = tc.nextLine();
         System.out.println("edad?");
         int edad = tc.nextInt();
+        tc.nextLine();
         System.out.println("raza?");
         String raza= tc.nextLine();
         System.out.println("habitad?");
