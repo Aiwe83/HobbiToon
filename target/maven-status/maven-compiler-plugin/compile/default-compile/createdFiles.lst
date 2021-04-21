@@ -1,0 +1,5 @@
+org\aiwe\comarca\Gestion.class
+org\aiwe\comarca\App.class
+org\aiwe\comarca\domain\Frodo.class
+org\aiwe\comarca\domain\Hobbit.class
+org\aiwe\comarca\domain\Comarca.class
