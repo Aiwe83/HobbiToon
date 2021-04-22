@@ -148,6 +148,7 @@ public class Gestion {
         String nombre = tc.nextLine();
         System.out.println("edad?");
         int edad = tc.nextInt();
+        tc.nextLine();//todo Habia que poner nextLine para que no saltara a la linea siguente sin poder colocar la edad.
         System.out.println("raza?");
         String raza= tc.nextLine();
         System.out.println("habitad?");
