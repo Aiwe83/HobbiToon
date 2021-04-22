@@ -113,6 +113,7 @@ public class Gestion {
         int altura = tc.nextInt();
         System.out.println("armadura?");
         String armadura = tc.nextLine();
+        tc.nextLine();
         System.out.println("accesorios?");
         String accesorios= tc.nextLine();
         System.out.println("alimentacion?");
